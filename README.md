@@ -85,9 +85,9 @@ Também aprendi que é possível **mover objetos entre classes automaticamente**
 ### Desenho de arquitetura com diagrams.net
 Aprendi a criar diagramas de arquitetura claros, facilitando a visualização de fluxos, serviços e dependências.
 
-![Arquitetura - Diagrama 1](images/Arquitetura01.png)  
+![Arquitetura - Diagrama 1](Arquitetura01.png)  
 [Veja o Diagrama 1 interativo no Google Drive](https://drive.google.com/file/d/1VW4N89zmbqrH8spT9mi2IXAh13LcZf2u/view?usp=sharing)
 
-![Arquitetura - Diagrama 2](images/Arquitetura02.png)  
+![Arquitetura - Diagrama 2](Arquitetura02.png)  
 [Veja o Diagrama 2 interativo no Google Drive](https://drive.google.com/file/d/1VW4N89zmbqrH8spT9mi2IXAh13LcZf2u/view?usp=sharing)
 
